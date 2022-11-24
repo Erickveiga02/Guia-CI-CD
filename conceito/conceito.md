@@ -1,17 +1,17 @@
 # Conceitos de CI/CD
 
-A ideia de uma pipeline de CI/CD é fornecer um fluxo contínuo de alteração de código, cobrindo todas as etapas manuais que são precisas para levar o código até produção. Com esse método, você se esforça para ter menos intervenção humana ou mesmo nenhuma intervenção, desde o desenvolvimento do novo código até sua implantação.
+A ideia de uma pipeline de CI/CD é fornecer um fluxo contínuo de alteração de código, cobrindo todas as etapas manuais que são precisas para levar o código até produção. Esse método tem como objetivo reduzir intervenções humanas ou mesmo nenhuma intervenção, desde o desenvolvimento do novo código até sua implantação.
 
 ## Implantação manual 
 
 Quando atuei como um profissional de Middleware, uma das tarefas do dia-a-dia era realizar implantação de software, essa implantação era feita de forma manual no servidor de aplicação.
 O desenvolvedor gerava uma release na máquina local e me fornecia essa release através de um sistema de compartilhamento.
 
-Fluxo do desenvolvedor:
+1. **Fluxo do desenvolvedor**
 
 ![dev!](imagens/dev-fluxo.png "dev") 
 
-Fluxo da infra:
+2. **Fluxo da infra:**
 
 ![dev!](imagens/infra.png "dev") 
 
