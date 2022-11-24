@@ -1,2 +1,16 @@
-# Guia---CI-CD
-Esse projeto tem como objetivo introduzir e demonstrar as práticas em uma pipeline de CI/CD
+# Guia - CI-CD
+
+Esse repositório tem como objetivo ajudar na jornada de aprendizado nos conceitos teoricos de Integração continua e deploy continuo.
+A ideia é fornecer um guia para implantar o CI/CD em uma organização, através de uma abordagem prática.
+
+## Licença 
+
+Estou trabalhando com: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+
+
+## Contribuição
+
+Nada se constroi sozinho, quem somos ou aonde chegamos sempre teve influência ou ajuda de alguém.
+Então fique a vontade para possíveis contribuições :D 
