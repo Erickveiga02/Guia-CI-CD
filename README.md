@@ -1,6 +1,6 @@
 # Guia - CI-CD
 
-Esse repositório tem como objetivo ajudar na jornada de aprendizado nos conceitos de Integração continua e deploy continuo (CI/CD).
+Esse repositório tem como objetivo ajudar na jornada de aprendizado nos conceitos de Integração contínua e deploy contínuo (CI/CD).
 A ideia é fornecer um guia para implantar o CI/CD, através de uma abordagem prática.
 
 # Tópicos 
