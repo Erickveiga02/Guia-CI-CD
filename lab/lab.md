@@ -4,7 +4,8 @@
   <hl>
     1. helm repo add jenkins https://charts.jenkins.io
     2. helm repo update
-    3. helm upgrade --install myjenkins jenkins/jenkins
+    3. kubectl create namespace jenkins
+    4. helm upgrade --install myjenkins jenkins/jenkins -n jenkins
   </hl>
 - Após instalar o Jenkins
   <hl> 
