@@ -1,6 +1,6 @@
-# Entrega contínua
+# Deploy contínuo
 
-Para realizar a entrega contínua que é o processo de realizar o deploy da aplicação em algum ambiente, vamos precisar realizar algumas configurações.
+A seguir será demonstrado passo a passo para montar um deploy contínuo utilizando o Jenkins. Lembrando que o conceito de deploy contínuo é implantar o software sem nenhuma intervenção humana.
 
 ### Jenkins Service Account
 
