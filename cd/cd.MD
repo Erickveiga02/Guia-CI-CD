@@ -161,7 +161,7 @@ spec:
          stage('Push Image'){
             steps{
                 container('kaniko'){
-                    sh  '/kaniko/executor --context `pwd` --destination erickveiga/hello-world-mvn'
+                    sh  '/kaniko/executor --context `pwd` --destination registry_docker/hello-world-mvn'
                      
                 }
             }
