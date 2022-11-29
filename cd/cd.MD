@@ -17,7 +17,7 @@ Observação: Lembre-se que essa configurações é apenas para o laboratório, 
 Para nossa etapa de Build será utilizado o Kaniko na pipeline. Necessário configurar uma secret:
 
 ```
-kubectl create secret docker-registry saas-credentials --docker-username=$REGISTRY_USER --docker-password=$REGISTRY_PASS --docker-server=$REGISTRY_DOCKER --docker-email=$REGISTRY_EMAIL -n jenkins
+kubectl create secret docker-registry regcred --docker-username=$REGISTRY_USER --docker-password=$REGISTRY_PASS --docker-server=$REGISTRY_DOCKER --docker-email=$REGISTRY_EMAIL -n jenkins
 ```
 Essa secret é montada no POD através do POD Template no Jenkinsfile:
 ```
