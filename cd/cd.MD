@@ -65,13 +65,14 @@ Para realizar o push e build da imagem docker será acrescentado o seguinte stag
 stage('Push Image'){
             steps{
                 container('kaniko'){
-                    sh  '/kaniko/executor --context `pwd` --destination erickveiga/hello-world-mvn'
+                    sh  '/kaniko/executor --context `pwd` --destination registry_docker/hello-world-mvn' 
                      
                 }
             }
          }
 ```
 
+Necessário modificar o destination para o registry que foi configurado na secret
 
 ### kubectl
 
