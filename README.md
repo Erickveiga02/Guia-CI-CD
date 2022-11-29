@@ -6,7 +6,7 @@ A ideia é fornecer um guia para implantar o CI/CD, através de uma abordagem pr
 # Tópicos 
 - [Conceitos de CI/CD](https://github.com/Erickveiga02/Guia-CI-CD/blob/main/conceito/conceito.md)
 - [Lab utilizado](https://github.com/Erickveiga02/Guia-CI-CD/blob/main/lab/lab.md)
-- [Integração contínua](https://github.com/Erickveiga02/Guia-CI-CD/blob/main/integra%C3%A7%C3%A3o_continua%20/ci.MD)
+- [Integração contínua](https://github.com/Erickveiga02/Guia-CI-CD/blob/main/ci/ci.MD)
 - [Deploy contínuo](https://github.com/Erickveiga02/Guia-CI-CD/blob/main/cd/cd.MD)
 - [app_example](https://github.com/Erickveiga02/mvn-hello-world)
 
