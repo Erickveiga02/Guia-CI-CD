@@ -19,7 +19,7 @@ A seguir as features que serão implementadas:
 - Automatizar testes utilizando Robot Framework 
 - Versionamento da imagem Docker
 - Criar um registry interno no K8s
-
+aaa
 ## Licença 
 
 Estou trabalhando com: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
