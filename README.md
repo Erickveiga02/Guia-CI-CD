@@ -19,7 +19,6 @@ A seguir as features que serão implementadas:
 - Automatizar testes utilizando Robot Framework 
 - Versionamento da imagem Docker
 - Criar um registry interno no K8s
-- Rollback
 
 ## Licença 
 
